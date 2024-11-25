@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Majkejl
 - 👀 I’m interested in graphical programming
-- 🌱 I’m currently learning OpenGL
+- 🌱 I’m currently learning WebGPU
 - 📫 Discord : @istilldontdousernames
 
 <!---
