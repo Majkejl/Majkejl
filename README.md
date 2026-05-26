@@ -3,7 +3,7 @@
 CS student with a focus on **graphics & GPU programming** — I like building things that run fast [1] and look cool [2].
 
 
-1. Trust me bro
+1. Trust me bro et al., 2026
 2. ↓
 <p align="center">
   <img width="500" height="500" alt="water" src="./water.gif"> 
