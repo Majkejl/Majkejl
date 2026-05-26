@@ -1,6 +1,6 @@
 # Hey, I'm Majkejl 👋
 
-CS student with a focus on **graphics & GPU programming** — I like building things that run fast and look interesting. Currently wrapping up my bachelor's thesis on real-time ocean simulation using WebGPU.
+CS student with a focus on **graphics & GPU programming** — I like building things that run fast and look interesting. Just wrapped up my bachelor's thesis on real-time ocean simulation using WebGPU.
 
 - 🌱 Currently learning **WebGPU** and exploring GPU compute pipelines
 - 🔭 Working on real-time simulation, volume rendering, and N-body physics
