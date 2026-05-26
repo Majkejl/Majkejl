@@ -6,10 +6,8 @@ CS student with a focus on **graphics & GPU programming** — I like building th
 - 🔭 Working on real-time simulation, volume rendering, and N-body physics
 - 🌐 Portfolio (coming soon): [majkejl.github.io](https://majkejl.github.io)
 - 💬 Discord: `@istilldontdousernames`
-- 📫 Email: `misicek03@gmail.com`
-<!--- - 🔗 LinkedIn: `<!-- your LinkedIn here -->`
-
-
+- 📫 Email: misicek03@gmail.com
+<!--- - 🔗 LinkedIn: `<!-- your LinkedIn here -->
 
 ---
 
@@ -36,8 +34,10 @@ CS student with a focus on **graphics & GPU programming** — I like building th
 ---
 
 ## 🚀 Projects
-
-<img width="426" height="240" alt="water" src="https://github.com/user-attachments/assets/ea3ef41d-0c1d-427e-994b-ec1c5d21ca30" />
+<p align="center">
+  <img width="500" height="500" alt="water" src="./water.gif"> 
+  <img width="500" height="500" alt="ball" src="./TDMovieOut.4-ezgif.com-optimize.gif">
+</p>
 
 ---
 
