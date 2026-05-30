@@ -6,8 +6,9 @@ CS student with a focus on **graphics & GPU programming** — I like building th
 1. Trust me bro et al., 2026
 2. ↓
 <p align="center">
-  <img width="500" height="500" alt="water" src="./water.gif"> 
-  <img width="500" height="500" alt="ball" src="./TDMovieOut.4-ezgif.com-optimize.gif">
+  <img width="350" height="350" alt="water" src="./water.gif"> 
+  <img width="350" height="350" alt="ball" src="./TDMovieOut.4-ezgif.com-optimize.gif">
+  <img width="350" height="350" alt="nbody" src="./nbody.gif">
 </p>
 
 ---
